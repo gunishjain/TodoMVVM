@@ -15,7 +15,7 @@ It is utilising:
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot]([https://via.placeholder.com/468x300?text=App+Screenshot+Here](https://github.com/gunishjain/TodoMVVM/blob/main/Screenshots/todo_1.PNG))
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot]([https://via.placeholder.com/468x300?text=App+Screenshot+Here](https://github.com/gunishjain/TodoMVVM/blob/main/Screenshots/todo_2.PNG))
 
